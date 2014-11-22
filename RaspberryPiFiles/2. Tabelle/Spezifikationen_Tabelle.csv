@@ -1,0 +1,17 @@
+;Modell A;Modell B
+Preisempfehlung:;25 US-$;35 US-$
+Größe:;Kreditkartengröße 85,60 mm × 53,98 mm × 17 mm;
+SoC:;Broadcom BCM2835;
+CPU:;ARM1176JZF-S (700 MHz);
+GPU:;Broadcom VideoCore IV;
+Arbeitsspeicher (SDRAM):;256 MB;512 MB (bis Oktober 2012 256 MB)
+USB 2.0 Anschlüsse:;1;2 (über integrierten Hub)
+Videoausgabe:;FBAS, HDMI;
+Tonausgabe:;3,5 mm-Klinkenstecker (analog), HDMI (digital);
+Nicht-flüchtiger Speicher:;SD (SDHC und SDXC)/MMC/SDIO-Kartenleser;
+Netzwerk:;–;10/100 MBit Ethernet-Controller
+Schnittstellen:;Bis zu 16 GPIO-Pins, SPI, I²C, UART,EGL;
+Echtzeituhr:;–;
+Leistungsaufnahme:;5 V, 500 mA (2,5 Watt);5 V, 700 mA (3,5 Watt)
+Stromversorgung:;5 V Micro-USB-Anschluss (Micro-B);
+Betriebssysteme:;GNU/Linux, BSD, RISC OS, Plan 9;
