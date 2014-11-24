@@ -7,4 +7,5 @@ document.getElementById("main-nav").innerHTML =
     "<li><a href='organisation.html'>Organisation</a></li>" +
     "<li><a href='name.html'>Namensgebung</a></li>" +
     "<li><a href='specs.html'>Spezifikation</a></li>" +
+    "<li><a href='photos.html'>Fotos</a></li>" +
     "</ul>";

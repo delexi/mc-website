@@ -26,8 +26,7 @@ div#main {
     flex-direction: row;
     flex-wrap: nowrap;
     align-items: flex-start; /* align elements at the top */
-    justify-content: space-between;
-    max-width: 900px;
+    justify-content: flex-start;
     margin: 0 auto;
 }
 
@@ -36,7 +35,8 @@ div#menu {
 }
     
 div#content {
-    max-width: 700px;
+    max-width: 650px;
+    align-self: flex-start;
 }
 
 @media all and (max-width: 400px) {
@@ -48,4 +48,17 @@ div#content {
     div#menu {
         flex: 0 0 auto;
     }
+}
+
+.imagegrid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    width: 300px;
+    height: 200px;
 }
